@@ -1,0 +1,2 @@
+spotify_token = "BQDSZFXkUWH0DsxoIWZjwgb356MQOsVVR0c39qROvjFdmGjZSezVI24d6qHFDEcfYal1WAJCeWAUO1IDijLb_c8_SzVMA6h9gztapukP_OvG0Pl5ro4v56a0DV3qnkL_g56k03yezk6_wnUuYeQuxQNsfzN_zq5C"
+spotify_user_id = "liliali2000"
